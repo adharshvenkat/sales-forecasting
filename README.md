@@ -10,12 +10,12 @@ This project aims to develop a model using ARIMA &amp; Seasonal ARIMA to forecas
 Workflow of the project <a name="2"></a>
 ------------
 
--> Visualize the Time Series Data
+1. Visualize the Time Series Data
 
--> Make the time series data stationary
+2. Make the time series data stationary
 
--> Plot the Correlation and AutoCorrelation Charts
+3. Plot the Correlation and AutoCorrelation Charts
 
--> Construct the ARIMA or Seasonal ARIMA models based on the data
+4. Construct the ARIMA or Seasonal ARIMA models based on the data
 
--> Use the model to make predictions
+5. Use the model to make predictions
